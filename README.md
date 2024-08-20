@@ -1,0 +1,1 @@
+The Calculator App is a simple, user-friendly Android application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. This app is built using Kotlin and is designed with a clean and intuitive user interface.
